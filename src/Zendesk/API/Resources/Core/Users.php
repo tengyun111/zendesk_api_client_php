@@ -48,6 +48,8 @@ class Users extends ResourceAbstract
      */
     protected $identities;
 
+    protected $endpoint;
+
     /**
      * {@inheritdoc}
      */
